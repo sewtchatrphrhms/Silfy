@@ -11,9 +11,9 @@ intents.members = True
 
 bot = commands.Bot(command_prefix="!", intents=intents)
 
-MESSAGE_ID = 0
-ROLE_ID = 0
-EMOJI = "🔥"
+MESSAGE_ID = 1487321968863875072
+ROLE_ID = 1487303279011565708
+EMOJI = "✅"
 
 @bot.event
 async def on_ready():
